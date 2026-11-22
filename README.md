@@ -327,7 +327,7 @@ Key lessons from building it:
 
 ## Author
 
-**Vivek**: B.Tech CSE (Machine Learning), Gautam Buddha University
+**Pawan pal**: B.Tech CSE AI, Gautam Buddha University
 
 Built as part of learning LLM and RAG engineering from scratch.
 
